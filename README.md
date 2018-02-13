@@ -3,7 +3,7 @@ About
 _version 1.00_
 
 Rewritten __ClearlooksDarkLime__ theme with pixmap engine and SVG images. The original "template" was Adwaita pixmap theme.
-
+![Inkscape with ClearlooksDarkLimeSVG theme](/../media/img/inkscape.png?raw=true "Inkscape with ClearlooksDarkLimeSVG theme")
 
 Installation
 ------
